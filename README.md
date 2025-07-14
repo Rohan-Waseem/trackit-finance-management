@@ -30,7 +30,7 @@
 
 ## 📽️ Demo Video
 
-[![Watch the demo](assets/demo-thumbnail.png)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=R4v9qfc0XG0&list=PL460ZDb1xew9G3omqXxsFtPvnewLGcogZ&index=2))
+[![Watch the demo](assets/thumbnail.png)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=R4v9qfc0XG0&list=PL460ZDb1xew9G3omqXxsFtPvnewLGcogZ&index=2))
 
 ## 🧠 Architecture
 
