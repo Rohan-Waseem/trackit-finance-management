@@ -30,7 +30,15 @@
 
 ## 📽️ Screenshots
 
-[screenshots](assets/1.png)
+![screenshots](assets/1.png)  
+![screenshots](assets/2.png)  
+![screenshots](assets/3.png)  
+![screenshots](assets/4.png)  
+![screenshots](assets/5.png)  
+![screenshots](assets/6.png)  
+![screenshots](assets/7.png)  
+![screenshots](assets/8.png)  
+![screenshots](assets/9.png)  
 
 ## 🧠 Architecture
 
