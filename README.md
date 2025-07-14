@@ -28,9 +28,9 @@
 - **AI/ML models**
 - **Spring Boot + Java Blockchain**
 
-## 📽️ Demo Video
+## 📽️ Screenshots
 
-[![Watch the demo](assets/thumbnail.png)](https://www.youtube.com/watch?v=R4v9qfc0XG0&list=PL460ZDb1xew9G3omqXxsFtPvnewLGcogZ&index=2)
+[screenshots](assets/1.png)
 
 ## 🧠 Architecture
 
