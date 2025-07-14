@@ -30,15 +30,21 @@
 
 ## 📽️ Screenshots
 
-![screenshots](assets/1.png)  
-![screenshots](assets/2.png)  
-![screenshots](assets/3.png)  
-![screenshots](assets/4.png)  
-![screenshots](assets/5.png)  
-![screenshots](assets/6.png)  
-![screenshots](assets/7.png)  
-![screenshots](assets/8.png)  
-![screenshots](assets/9.png)  
+<p float="left">
+  <img src="assets/1.png" width="300"/>
+  <img src="assets/2.png" width="300"/>
+    <img src="assets/3.png" width="300"/>
+</p>
+<p float="left">
+  <img src="assets/4.png" width="300"/>
+  <img src="assets/5.png" width="300"/>
+  <img src="assets/6.png" width="300"/>
+</p>
+<p float="left">
+  <img src="assets/7.png" width="300"/>
+  <img src="assets/8.png" width="300"/>
+  <img src="assets/9.png" width="300"/>
+</p>
 
 ## 🧠 Architecture
 
